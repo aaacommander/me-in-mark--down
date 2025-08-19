@@ -7,6 +7,9 @@ Hello my name is Aiden , im currrently a sophmore, and I like to draw, a lot. An
 
 My favorite televsion series is Invincible downright, but I'm currently trying to read all of Hunter X Hunter I have 20 out of the 37 volumes. My favorite movie is probably Aliens or Deadpool & Wolverine.
 
+Commit the changes: ```shell
+        git commit -m "Invincible_season_2_Poster.jpg"
+
 ## Playlist:
  https://open.spotify.com/playlist/4byczqQy61lhSfB3PFMGq5?si=c99660692deb4c01
 In  my spotify playlist it contains about 19 hours of some songs I really enjoy. Here are some that stand out to me:
