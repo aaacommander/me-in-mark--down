@@ -10,7 +10,7 @@ My favorite televsion series is Invincible downright, but I'm currently trying t
 ![invincible poster](Invincible_season_2_Poster.jpg)
 
 ## Playlist:
- https://open.spotify.com/playlist/28A6Hc2GrKxd9buLGZUpm4?si=BA-kgG2JRfK2K48TU2U8Mg&pi=DlkfkXWQQDS7E&nd=1&dlsi=266ecdd454d14162 
+[comp sci playlist](https://open.spotify.com/playlist/28A6Hc2GrKxd9buLGZUpm4?si=BA-kgG2JRfK2K48TU2U8Mg&pi=DlkfkXWQQDS7E&nd=1&dlsi=266ecdd454d14162) 
 
  This playlist has songs that I have enjoyed a lot over the past year and have shaped up to be some of my favorites. Among these mostly contain the genre of Rap which has been a favorite of mine for quite the time. Although my favorite artist is Bad Bunny.
 
