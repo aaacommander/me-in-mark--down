@@ -25,4 +25,4 @@ My most recent drawing.
 
 Here is the link to the moodboard.
 
-(https://www.canva.com/design/DAGwqvgmHqI/8oUwz57hOwO44stGwM8Psg/edit)
+[moodboard link](https://www.canva.com/design/DAGwqvgmHqI/8oUwz57hOwO44stGwM8Psg/edit)
